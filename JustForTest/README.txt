@@ -1,0 +1,1 @@
+本class提供了一个闪烁文本的javafx
